@@ -1,0 +1,1689 @@
+fileFormatVersion: 2
+guid: 0fab5ad7816d0f64aad57803e7568a63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -105839990038355073
+    second: fPlayer_ [human]_0
+  - first:
+      213: -785028882100957178
+    second: fPlayer_ [human]_1
+  - first:
+      213: 2348734768395495355
+    second: fPlayer_ [human]_2
+  - first:
+      213: -3141243198366819461
+    second: fPlayer_ [human]_3
+  - first:
+      213: -1738544967974541049
+    second: fPlayer_ [human]_4
+  - first:
+      213: -6141922389960340386
+    second: fPlayer_ [human]_5
+  - first:
+      213: -6416999016231168325
+    second: fPlayer_ [human]_6
+  - first:
+      213: 7355013452270506311
+    second: fPlayer_ [human]_7
+  - first:
+      213: 679298196095148550
+    second: fPlayer_ [human]_8
+  - first:
+      213: 7570482325462366149
+    second: fPlayer_ [human]_9
+  - first:
+      213: 7874741837136227365
+    second: fPlayer_ [human]_10
+  - first:
+      213: -8599952966152955275
+    second: fPlayer_ [human]_11
+  - first:
+      213: -4219831655454059675
+    second: fPlayer_ [human]_12
+  - first:
+      213: -7384617770334995133
+    second: fPlayer_ [human]_13
+  - first:
+      213: 5151720368691768863
+    second: fPlayer_ [human]_14
+  - first:
+      213: 3162735833052631002
+    second: fPlayer_ [human]_15
+  - first:
+      213: 801521443876925156
+    second: fPlayer_ [human]_16
+  - first:
+      213: 6008435912848331852
+    second: fPlayer_ [human]_17
+  - first:
+      213: 3040485114929121496
+    second: fPlayer_ [human]_18
+  - first:
+      213: 8667438115489976868
+    second: fPlayer_ [human]_19
+  - first:
+      213: 2284302812799275729
+    second: fPlayer_ [human]_20
+  - first:
+      213: -946257336067231173
+    second: fPlayer_ [human]_21
+  - first:
+      213: -5787119183308866880
+    second: fPlayer_ [human]_22
+  - first:
+      213: 4940996521731295711
+    second: fPlayer_ [human]_23
+  - first:
+      213: 3376638861313213481
+    second: fPlayer_ [human]_24
+  - first:
+      213: 6463774586791764717
+    second: fPlayer_ [human]_25
+  - first:
+      213: 7772500421869395883
+    second: fPlayer_ [human]_26
+  - first:
+      213: -6602536987760780024
+    second: fPlayer_ [human]_27
+  - first:
+      213: -377818511666993727
+    second: fPlayer_ [human]_28
+  - first:
+      213: -701964419467625354
+    second: fPlayer_ [human]_29
+  - first:
+      213: 2583820366776366433
+    second: fPlayer_ [human]_30
+  - first:
+      213: -4215127251035032228
+    second: fPlayer_ [human]_31
+  - first:
+      213: 4076145036868720634
+    second: fPlayer_ [human]_32
+  - first:
+      213: -7660564588588761972
+    second: fPlayer_ [human]_33
+  - first:
+      213: 4299707390488526888
+    second: fPlayer_ [human]_34
+  - first:
+      213: 2128774265249488689
+    second: fPlayer_ [human]_35
+  - first:
+      213: -7918741398404807262
+    second: fPlayer_ [human]_36
+  - first:
+      213: -5384229677935029579
+    second: fPlayer_ [human]_37
+  - first:
+      213: -6560311524373835590
+    second: fPlayer_ [human]_38
+  - first:
+      213: 4825073685442078874
+    second: fPlayer_ [human]_39
+  - first:
+      213: -3464825175310586472
+    second: fPlayer_ [human]_40
+  - first:
+      213: 1630440154462905152
+    second: fPlayer_ [human]_41
+  - first:
+      213: 3681338528683318475
+    second: fPlayer_ [human]_42
+  - first:
+      213: 3103466887727662900
+    second: fPlayer_ [human]_43
+  - first:
+      213: 713100365694340196
+    second: fPlayer_ [human]_44
+  - first:
+      213: 2936254134930607048
+    second: fPlayer_ [human]_45
+  - first:
+      213: -3076183852448432107
+    second: fPlayer_ [human]_46
+  - first:
+      213: -3584904694788982732
+    second: fPlayer_ [human]_47
+  - first:
+      213: -1249814130876805294
+    second: fPlayer_ [human]_48
+  - first:
+      213: -7917384127799988381
+    second: fPlayer_ [human]_49
+  - first:
+      213: -841870247748440687
+    second: fPlayer_ [human]_50
+  - first:
+      213: 3322205512535637263
+    second: fPlayer_ [human]_51
+  - first:
+      213: -5072714655244215225
+    second: fPlayer_ [human]_52
+  - first:
+      213: -2344466143754208188
+    second: fPlayer_ [human]_53
+  - first:
+      213: -4002890675574800693
+    second: fPlayer_ [human]_54
+  - first:
+      213: 586083052932847877
+    second: fPlayer_ [human]_55
+  - first:
+      213: -4183895613186742151
+    second: fPlayer_ [human]_56
+  - first:
+      213: 8762426207691082897
+    second: fPlayer_ [human]_57
+  - first:
+      213: -4302965659541814275
+    second: fPlayer_ [human]_58
+  - first:
+      213: 8906096779576718998
+    second: fPlayer_ [human]_59
+  - first:
+      213: 5387799873477298766
+    second: fPlayer_ [human]_60
+  - first:
+      213: -960281125323384193
+    second: fPlayer_ [human]_61
+  - first:
+      213: -5189986170544282127
+    second: fPlayer_ [human]_62
+  - first:
+      213: -8351840081622906458
+    second: fPlayer_ [human]_63
+  - first:
+      213: -787216225374330057
+    second: fPlayer_ [human]_64
+  - first:
+      213: 5841385938124360149
+    second: fPlayer_ [human]_65
+  - first:
+      213: 6249685643277840292
+    second: fPlayer_ [human]_66
+  - first:
+      213: 2248375181253299504
+    second: fPlayer_ [human]_67
+  - first:
+      213: 8956594935739989921
+    second: fPlayer_ [human]_68
+  - first:
+      213: -2258416320954036122
+    second: fPlayer_ [human]_69
+  - first:
+      213: -7922798402007283493
+    second: fPlayer_ [human]_70
+  - first:
+      213: 2867424300318977185
+    second: fPlayer_ [human]_71
+  - first:
+      213: 280449291508283686
+    second: fPlayer_ [human]_72
+  - first:
+      213: -4125293794327072875
+    second: fPlayer_ [human]_73
+  - first:
+      213: 913473044184009786
+    second: fPlayer_ [human]_74
+  - first:
+      213: 3389163781411354645
+    second: fPlayer_ [human]_75
+  - first:
+      213: 6442407399981571635
+    second: fPlayer_ [human]_76
+  - first:
+      213: 306993526933444843
+    second: fPlayer_ [human]_77
+  - first:
+      213: -2948106975094905976
+    second: fPlayer_ [human]_78
+  - first:
+      213: 1315058084533203474
+    second: fPlayer_ [human]_79
+  - first:
+      213: 800422010723768711
+    second: fPlayer_ [human]_80
+  - first:
+      213: -3827536836120221402
+    second: fPlayer_ [human]_81
+  - first:
+      213: 5195463881450463923
+    second: fPlayer_ [human]_82
+  - first:
+      213: 1953544066374873843
+    second: fPlayer_ [human]_83
+  - first:
+      213: 75723882703971073
+    second: fPlayer_ [human]_84
+  - first:
+      213: 3222187448926083132
+    second: fPlayer_ [human]_85
+  - first:
+      213: 3945731233361143874
+    second: fPlayer_ [human]_86
+  - first:
+      213: 5885859056626921429
+    second: fPlayer_ [human]_87
+  - first:
+      213: 2254093306623330284
+    second: fPlayer_ [human]_88
+  - first:
+      213: 348268804394531200
+    second: fPlayer_ [human]_89
+  - first:
+      213: 4957452361672100740
+    second: fPlayer_ [human]_90
+  - first:
+      213: 4587984426193288068
+    second: fPlayer_ [human]_91
+  - first:
+      213: -6128731218515695481
+    second: fPlayer_ [human]_92
+  - first:
+      213: 3934997812358762736
+    second: fPlayer_ [human]_93
+  - first:
+      213: -2396867916398681571
+    second: fPlayer_ [human]_94
+  - first:
+      213: -7796100409476608779
+    second: fPlayer_ [human]_95
+  - first:
+      213: -6185488976307213622
+    second: fPlayer_ [human]_96
+  - first:
+      213: -7605131197633683409
+    second: fPlayer_ [human]_97
+  - first:
+      213: 6470785872501300088
+    second: fPlayer_ [human]_98
+  - first:
+      213: 1152235918798968418
+    second: fPlayer_ [human]_99
+  - first:
+      213: -4565416833226929450
+    second: fPlayer_ [human]_100
+  - first:
+      213: -326733079242506284
+    second: fPlayer_ [human]_101
+  - first:
+      213: 4188281875709730176
+    second: fPlayer_ [human]_102
+  - first:
+      213: 5549290253971445024
+    second: fPlayer_ [human]_103
+  - first:
+      213: -8770008258385738844
+    second: fPlayer_ [human]_104
+  - first:
+      213: 8071160677376894924
+    second: fPlayer_ [human]_105
+  - first:
+      213: 8018395821810746497
+    second: fPlayer_ [human]_106
+  - first:
+      213: 1030590628740663165
+    second: fPlayer_ [human]_107
+  - first:
+      213: -4545046196674746823
+    second: fPlayer_ [human]_108
+  - first:
+      213: 7745261485631829570
+    second: fPlayer_ [human]_109
+  - first:
+      213: -796085631861043039
+    second: fPlayer_ [human]_110
+  - first:
+      213: 9117799249205960319
+    second: fPlayer_ [human]_111
+  - first:
+      213: 8675020530227049019
+    second: fPlayer_ [human]_112
+  - first:
+      213: 7533963422814464800
+    second: fPlayer_ [human]_113
+  - first:
+      213: -3177174956681710719
+    second: fPlayer_ [human]_114
+  - first:
+      213: 5991037498876015727
+    second: fPlayer_ [human]_115
+  - first:
+      213: 5724359548499295680
+    second: fPlayer_ [human]_116
+  - first:
+      213: 8598261475085096612
+    second: fPlayer_ [human]_117
+  - first:
+      213: 5787178849330796737
+    second: fPlayer_ [human]_118
+  - first:
+      213: 4425665531283611322
+    second: fPlayer_ [human]_119
+  - first:
+      213: -3038969753167133236
+    second: fPlayer_ [human]_120
+  - first:
+      213: -2706325536010595544
+    second: fPlayer_ [human]_121
+  - first:
+      213: -3108523665056960208
+    second: fPlayer_ [human]_122
+  - first:
+      213: 94050490338049400
+    second: fPlayer_ [human]_123
+  - first:
+      213: 605269348682737488
+    second: fPlayer_ [human]_124
+  - first:
+      213: -2877598917163662008
+    second: fPlayer_ [human]_125
+  - first:
+      213: 2929306991907031568
+    second: fPlayer_ [human]_126
+  - first:
+      213: -7969415226452821394
+    second: fPlayer_ [human]_127
+  - first:
+      213: 683750864153353862
+    second: fPlayer_ [human]_128
+  - first:
+      213: 3350340089790995561
+    second: fPlayer_ [human]_129
+  - first:
+      213: -7382401736764579745
+    second: fPlayer_ [human]_130
+  - first:
+      213: 6664872590838777926
+    second: fPlayer_ [human]_131
+  - first:
+      213: 4036571239462336687
+    second: fPlayer_ [human]_132
+  - first:
+      213: 9071509748777501771
+    second: fPlayer_ [human]_133
+  - first:
+      213: -8125597962563124398
+    second: fPlayer_ [human]_134
+  - first:
+      213: 1048040181313755933
+    second: fPlayer_ [human]_135
+  - first:
+      213: 1029198395650272912
+    second: fPlayer_ [human]_136
+  - first:
+      213: 6530346958755060352
+    second: fPlayer_ [human]_137
+  - first:
+      213: 5983669988350669614
+    second: fPlayer_ [human]_138
+  - first:
+      213: 8771037980579929567
+    second: fPlayer_ [human]_139
+  - first:
+      213: 1996843772453354783
+    second: fPlayer_ [human]_140
+  - first:
+      213: 8292869958235345553
+    second: fPlayer_ [human]_141
+  - first:
+      213: 5656650953447112753
+    second: fPlayer_ [human]_142
+  - first:
+      213: -8312901361133871965
+    second: fPlayer_ [human]_143
+  - first:
+      213: 6627125518132063242
+    second: fPlayer_ [human]_144
+  - first:
+      213: -4760565236945534901
+    second: fPlayer_ [human]_145
+  - first:
+      213: -1878905186906556726
+    second: fPlayer_ [human]_146
+  - first:
+      213: -1651004033356802821
+    second: fPlayer_ [human]_147
+  - first:
+      213: 7683482986156619743
+    second: fPlayer_ [human]_148
+  - first:
+      213: 5754270546818851574
+    second: fPlayer_ [human]_149
+  - first:
+      213: 5355922306851880867
+    second: fPlayer_ [human]_150
+  - first:
+      213: 4206576566498307335
+    second: fPlayer_ [human]_151
+  - first:
+      213: -1864084773222101635
+    second: fPlayer_ [human]_152
+  - first:
+      213: -4624430345020743363
+    second: fPlayer_ [human]_153
+  - first:
+      213: 1693074280548163242
+    second: fPlayer_ [human]_154
+  - first:
+      213: 9168173433113198206
+    second: fPlayer_ [human]_155
+  - first:
+      213: 6116941653999547606
+    second: fPlayer_ [human]_156
+  - first:
+      213: -2975180929228013873
+    second: fPlayer_ [human]_157
+  - first:
+      213: 5620683055302008228
+    second: fPlayer_ [human]_158
+  - first:
+      213: -3897771930175124512
+    second: fPlayer_ [human]_159
+  - first:
+      213: 7069503979390649897
+    second: fPlayer_ [human]_160
+  - first:
+      213: -3796257570282681360
+    second: fPlayer_ [human]_161
+  - first:
+      213: 3115262100665095250
+    second: fPlayer_ [human]_162
+  - first:
+      213: -2583735666682027948
+    second: fPlayer_ [human]_163
+  - first:
+      213: -8448172700968817674
+    second: fPlayer_ [human]_164
+  - first:
+      213: -3773373467908181092
+    second: fPlayer_ [human]_165
+  - first:
+      213: 2620867062743668949
+    second: fPlayer_ [human]_166
+  - first:
+      213: 6349577964938098659
+    second: fPlayer_ [human]_167
+  - first:
+      213: 7898126756284373285
+    second: fPlayer_ [human]_168
+  - first:
+      213: -5254358521918040782
+    second: fPlayer_ [human]_169
+  - first:
+      213: -2729843580592575884
+    second: fPlayer_ [human]_170
+  - first:
+      213: 4391626994744906001
+    second: fPlayer_ [human]_171
+  - first:
+      213: -2143682008758663731
+    second: fPlayer_ [human]_172
+  - first:
+      213: 4120310464873625358
+    second: fPlayer_ [human]_173
+  - first:
+      213: 5476407118836572945
+    second: fPlayer_ [human]_174
+  - first:
+      213: -5920090784777657417
+    second: fPlayer_ [human]_175
+  - first:
+      213: 1111475944888331867
+    second: fPlayer_ [human]_176
+  - first:
+      213: -2246398821477127922
+    second: fPlayer_ [human]_177
+  - first:
+      213: -4582050353032315729
+    second: fPlayer_ [human]_178
+  - first:
+      213: -6504562805831751585
+    second: fPlayer_ [human]_179
+  - first:
+      213: -3109394553176186790
+    second: fPlayer_ [human]_180
+  - first:
+      213: 5775936476037549930
+    second: fPlayer_ [human]_181
+  - first:
+      213: -1686337344745172616
+    second: fPlayer_ [human]_182
+  - first:
+      213: 6024118070990966738
+    second: fPlayer_ [human]_183
+  - first:
+      213: -1088712188627571502
+    second: fPlayer_ [human]_184
+  - first:
+      213: 5292773287796325035
+    second: fPlayer_ [human]_185
+  - first:
+      213: -2171229890499417468
+    second: fPlayer_ [human]_186
+  - first:
+      213: -5621857413585335501
+    second: fPlayer_ [human]_187
+  - first:
+      213: 6920137527706546715
+    second: fPlayer_ [human]_188
+  - first:
+      213: -5951934409186052789
+    second: fPlayer_ [human]_189
+  - first:
+      213: -8076909176596166020
+    second: fPlayer_ [human]_190
+  - first:
+      213: 2273445812085467149
+    second: fPlayer_ [human]_191
+  - first:
+      213: -8752128170218016104
+    second: fPlayer_ [human]_192
+  - first:
+      213: -7850420458951991598
+    second: fPlayer_ [human]_193
+  - first:
+      213: 3663325674021594871
+    second: fPlayer_ [human]_194
+  - first:
+      213: -2692284613712382743
+    second: fPlayer_ [human]_195
+  - first:
+      213: 5531066119610701484
+    second: fPlayer_ [human]_196
+  - first:
+      213: -328153770025711913
+    second: fPlayer_ [human]_197
+  - first:
+      213: -8097698105647526076
+    second: fPlayer_ [human]_198
+  - first:
+      213: -2006070172757600405
+    second: fPlayer_ [human]_199
+  - first:
+      213: 9212845847778981521
+    second: fPlayer_ [human]_200
+  - first:
+      213: 7791353795967702944
+    second: fPlayer_ [human]_201
+  - first:
+      213: -5502610343589389439
+    second: fPlayer_ [human]_202
+  - first:
+      213: 99455176569891181
+    second: fPlayer_ [human]_203
+  - first:
+      213: 2190114053721437779
+    second: fPlayer_ [human]_204
+  - first:
+      213: 2619090212211201100
+    second: fPlayer_ [human]_205
+  - first:
+      213: 5517209865025033222
+    second: fPlayer_ [human]_206
+  - first:
+      213: 7543360520933353061
+    second: fPlayer_ [human]_207
+  - first:
+      213: 730550026923483608
+    second: fPlayer_ [human]_208
+  - first:
+      213: 3201850927601782451
+    second: fPlayer_ [human]_209
+  - first:
+      213: -1288564199444732761
+    second: fPlayer_ [human]_210
+  - first:
+      213: -4132114920916236300
+    second: fPlayer_ [human]_211
+  - first:
+      213: -3045516374452592937
+    second: fPlayer_ [human]_212
+  - first:
+      213: 6002330877881917966
+    second: fPlayer_ [human]_213
+  - first:
+      213: -72285713661471563
+    second: fPlayer_ [human]_214
+  - first:
+      213: 4744871569083292867
+    second: fPlayer_ [human]_215
+  - first:
+      213: 1622948063368427085
+    second: fPlayer_ [human]_216
+  - first:
+      213: -988060428981959578
+    second: fPlayer_ [human]_217
+  - first:
+      213: 3770110181750528331
+    second: fPlayer_ [human]_218
+  - first:
+      213: -260963457324016744
+    second: fPlayer_ [human]_219
+  - first:
+      213: 9140997376227571734
+    second: fPlayer_ [human]_220
+  - first:
+      213: -8157323308982364137
+    second: fPlayer_ [human]_221
+  - first:
+      213: -5712155016689569642
+    second: fPlayer_ [human]_222
+  - first:
+      213: -6521022721286860073
+    second: fPlayer_ [human]_223
+  - first:
+      213: -1108881473844640245
+    second: fPlayer_ [human]_224
+  - first:
+      213: 5939793555048803284
+    second: fPlayer_ [human]_225
+  - first:
+      213: 8216395745813256463
+    second: fPlayer_ [human]_226
+  - first:
+      213: 6844726809383858345
+    second: fPlayer_ [human]_227
+  - first:
+      213: 4220958455321362877
+    second: fPlayer_ [human]_228
+  - first:
+      213: 3582625913248788936
+    second: fPlayer_ [human]_229
+  - first:
+      213: -1633753624315704016
+    second: fPlayer_ [human]_230
+  - first:
+      213: -6612887532303666400
+    second: fPlayer_ [human]_231
+  - first:
+      213: -5834338996796475035
+    second: fPlayer_ [human]_232
+  - first:
+      213: 36253491836775320
+    second: fPlayer_ [human]_233
+  - first:
+      213: 3849142765702925659
+    second: fPlayer_ [human]_234
+  - first:
+      213: -8251200005774625135
+    second: fPlayer_ [human]_235
+  - first:
+      213: 6314827183029380166
+    second: fPlayer_ [human]_236
+  - first:
+      213: -6228746226810905079
+    second: fPlayer_ [human]_237
+  - first:
+      213: 1272692962716018997
+    second: fPlayer_ [human]_238
+  - first:
+      213: 2946806895464808659
+    second: fPlayer_ [human]_239
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fPlayer_ [human]_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 292
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73abbef61bf78ef0800000000000000
+      internalID: -105839990038355073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 292
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60053f714640b15f0800000000000000
+      internalID: -785028882100957178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 292
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7a2d5e3d1689020800000000000000
+      internalID: 2348734768395495355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 292
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdb3044ff0864d0800000000000000
+      internalID: -3141243198366819461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 260
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a5d510927fd7e0800000000000000
+      internalID: -1738544967974541049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c456ca02283caa0800000000000000
+      internalID: -6141922389960340386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 260
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb69289b46d32f6a0800000000000000
+      internalID: -6416999016231168325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 260
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7419dcc24c1421660800000000000000
+      internalID: 7355013452270506311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a0da3c1a5d6900800000000000000
+      internalID: 679298196095148550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 228
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7be8b9091cf0960800000000000000
+      internalID: 7570482325462366149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c696c8af3b84d60800000000000000
+      internalID: 7874741837136227365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 228
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad26f7754d6a880800000000000000
+      internalID: -8599952966152955275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 230
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56356bc87752075c0800000000000000
+      internalID: -4219831655454059675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 228
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d35256341948990800000000000000
+      internalID: -7384617770334995133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 228
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e640e51669e7740800000000000000
+      internalID: 5151720368691768863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 228
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf4087bb7b44eb20800000000000000
+      internalID: 3162735833052631002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee642ea1839f1b00800000000000000
+      internalID: 801521443876925156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 165
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445601f0a0426350800000000000000
+      internalID: 6008435912848331852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 132
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d886345a19f13a20800000000000000
+      internalID: 3040485114929121496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42216724b0de84870800000000000000
+      internalID: 8667438115489976868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 132
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d293543e4973bf10800000000000000
+      internalID: 2284302812799275729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 100
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32fa9167f73ed2f0800000000000000
+      internalID: -946257336067231173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 100
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab606a3c500bfa0800000000000000
+      internalID: -5787119183308866880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90c327822f19440800000000000000
+      internalID: 4940996521731295711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 101
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248a57772b3cde20800000000000000
+      internalID: 3376638861313213481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2abe97db0f3b950800000000000000
+      internalID: 6463774586791764717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf591604f77ddb60800000000000000
+      internalID: 7772500421869395883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d142467931f54a0800000000000000
+      internalID: -6602536987760780024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 100
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a58eb018b1caf0800000000000000
+      internalID: -377818511666993727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 68
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3ba4641f1246f0800000000000000
+      internalID: -701964419467625354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 68
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165ff151fe29bd320800000000000000
+      internalID: 2583820366776366433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 68
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55fcfe091cd085c0800000000000000
+      internalID: -4215127251035032228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7188f8050619830800000000000000
+      internalID: 4076145036868720634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 36
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cfa36181530b590800000000000000
+      internalID: -7660564588588761972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c0304711abab30800000000000000
+      internalID: 4299707390488526888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f503f5aecea8d10800000000000000
+      internalID: 2128774265249488689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c6e747aafa1290800000000000000
+      internalID: -7918741398404807262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2119182af5745b0800000000000000
+      internalID: -5384229677935029579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0dbc53d6715f4a0800000000000000
+      internalID: -6560311524373835590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a982cdbd3fa16f240800000000000000
+      internalID: 4825073685442078874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPlayer_ [human]_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d28c84cd77aefc0800000000000000
+      internalID: -3464825175310586472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
